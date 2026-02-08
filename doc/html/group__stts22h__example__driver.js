@@ -1,0 +1,25 @@
+var group__stts22h__example__driver =
+[
+    [ "STTS22H_BASIC_DEFAULT_BLOCK_DATA_UPDATE", "group__stts22h__example__driver.html#gaaa190aaac2c6bd01001e5282ee2b8e37", null ],
+    [ "STTS22H_BASIC_DEFAULT_DISABLE_SMBUS_TIMEOUT", "group__stts22h__example__driver.html#gab42ad1fb77fc713f6fe841583829ad07", null ],
+    [ "STTS22H_BASIC_DEFAULT_IIC_ADDRESS_AUTO_INCREMENT", "group__stts22h__example__driver.html#gaa65f8220d64ec50f85931c57ce346147", null ],
+    [ "STTS22H_BASIC_DEFAULT_OUTPUT_DATA_RATE", "group__stts22h__example__driver.html#ga447fa095c22a4c1b679227e9fb18613d", null ],
+    [ "STTS22H_INTERRUPT_DEFAULT_BLOCK_DATA_UPDATE", "group__stts22h__example__driver.html#ga3aac7d20276aec5f372024e66f54ee01", null ],
+    [ "STTS22H_INTERRUPT_DEFAULT_DISABLE_SMBUS_TIMEOUT", "group__stts22h__example__driver.html#ga59480c5af1d274895d0cf3cf3e173ea7", null ],
+    [ "STTS22H_INTERRUPT_DEFAULT_IIC_ADDRESS_AUTO_INCREMENT", "group__stts22h__example__driver.html#ga76b899a2eb4cc23c96b0a7c3fb83ace2", null ],
+    [ "STTS22H_INTERRUPT_DEFAULT_OUTPUT_DATA_RATE", "group__stts22h__example__driver.html#gacdc60d528fbf5d0fb6e0bb1ce11bbdd6", null ],
+    [ "STTS22H_SHOT_DEFAULT_BLOCK_DATA_UPDATE", "group__stts22h__example__driver.html#gac44424d4c3cfa5ab172bf208feca1e14", null ],
+    [ "STTS22H_SHOT_DEFAULT_DISABLE_SMBUS_TIMEOUT", "group__stts22h__example__driver.html#gaa9985907885f6fecdb241825b8190bf4", null ],
+    [ "STTS22H_SHOT_DEFAULT_IIC_ADDRESS_AUTO_INCREMENT", "group__stts22h__example__driver.html#ga8d0e3b379d6beda132ab3e7d83583a9b", null ],
+    [ "STTS22H_SHOT_DEFAULT_OUTPUT_DATA_RATE", "group__stts22h__example__driver.html#ga9b71a5ad81aa0186dc2e0304ff5ec64a", null ],
+    [ "stts22h_basic_deinit", "group__stts22h__example__driver.html#ga723d2dba4629a3a77af41242db41d35e", null ],
+    [ "stts22h_basic_init", "group__stts22h__example__driver.html#gaa7ae593e8a8bd1b07ada42440889c8a9", null ],
+    [ "stts22h_basic_read", "group__stts22h__example__driver.html#ga5f79fb79559ba4867bb3f07fb1b1b164", null ],
+    [ "stts22h_interrupt_deinit", "group__stts22h__example__driver.html#gabfbbb359e62ae629809ee6142280aedd", null ],
+    [ "stts22h_interrupt_init", "group__stts22h__example__driver.html#ga86bb4eedeaadd006702743d770c0ab46", null ],
+    [ "stts22h_interrupt_irq_handler", "group__stts22h__example__driver.html#gaff0c229468bf5f30df2641a5cfebffe9", null ],
+    [ "stts22h_interrupt_read", "group__stts22h__example__driver.html#ga2b1cd1cef09b8ba227e0febf64f923b9", null ],
+    [ "stts22h_shot_deinit", "group__stts22h__example__driver.html#gac021b5e8092d8803647142024cbe9c23", null ],
+    [ "stts22h_shot_init", "group__stts22h__example__driver.html#ga1d04d54500bc85e72cece7399dbd5ec1", null ],
+    [ "stts22h_shot_read", "group__stts22h__example__driver.html#gaacaa372a1a50802a792d8b7fc92b89c6", null ]
+];
